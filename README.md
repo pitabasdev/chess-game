@@ -23,6 +23,9 @@ Play a classic game of chess right in your web browser! This project is implemen
 
 1. Clone the repository:
 
+
+1. Clone the repository:
+
    ```bash
-   git clone (https://github.com/pitabasdev/chess-game)
+   git clone [https://github.com/yourusername/chess-game.git](https://github.com/pitabasdev/chess-game)https://github.com/pitabasdev/chess-game
 
